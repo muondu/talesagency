@@ -62,13 +62,13 @@ Add the various things that you are working on.
 #### CONTRIBUTING
 
 
-For any concerns, please open an [issue{talesagency}](https://github.com/muondu/talesagency/issues), or JUST, [fork the project and send a pull request(https://github.com/muondu/talesagency/pulls) or Join our discord group Link above. 
+For any concerns, please open an [issue{talesagency}](https://github.com/earlycamp/talesagency/issues), or JUST, [fork the project and send a pull request(https://github.com/earlycamp/talesagency/pulls) or Join our discord group Link above. 
 
 
 <hr>
 
 ### License
-* see [LICENSE](https://github.com/muondu/talesagency/LICENSE.md) file
+* see [LICENSE](https://github.com/earlycamp/talesagency/LICENSE.md) file
 
 ### Versions
 * Version 1.0  DATE 2/11/2020
@@ -77,7 +77,7 @@ For any concerns, please open an [issue{talesagency}](https://github.com/muondu/
 
 ### Contact Information
 
-If you have found any bugs, or have any feedback or questions and or want to post a feature request please use the [Issuetracker](https://github.com/muond/talesagency/issues) to report them or ask them in my/ours dicord channel. Link https://discord.gg/wusUkkw
+If you have found any bugs, or have any feedback or questions and or want to post a feature request please use the [Issuetracker](https://github.com/earlycamp/talesagency/issues) to report them or ask them in my/ours dicord channel. Link https://discord.gg/wusUkkw
 
 <hr>
 
@@ -85,6 +85,6 @@ If you have found any bugs, or have any feedback or questions and or want to pos
 
 <br>
 
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/muondu/talesagency/master/LICENSE)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/earlycamp/talesagency/master/LICENSE)
 
 [Discord Link](https://discord.gg/wusUkkw)
